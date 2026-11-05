@@ -1,0 +1,17 @@
+target/
+*.class
+.classpath
+.project
+.settings/
+.metadata/
+bin/
+.idea/
+*.iml
+.DS_Store
+Thumbs.db
+*.log
+.env
+.env.*
+!.env.example
+secrets.properties
+credentials.json
