@@ -1,4 +1,4 @@
-# Clean-Room QA Automation Portfolio
+#  QA Automation
 
 An independently written Java Selenium automation portfolio. This project is created from scratch and does not contain or derive from employer-owned source code, internal applications, proprietary test data, credentials, or binaries.
 
